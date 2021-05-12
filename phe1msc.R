@@ -22,6 +22,7 @@ dim(phe)
 1405*6#biomarkers
 #8430 mesures d ebiomarkeurs
 str(phe$DNPatient)
+plot(phe$DNPatient)
 
 
 #date as date variable ts : AGE and OPERATION converted
